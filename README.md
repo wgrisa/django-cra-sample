@@ -113,7 +113,7 @@ Note that the development build is not optimized.
 To create a production build, use yarn build.
 ```
 
-You will see a page with React's default "Welcome" page, and also a string `[]` which is the list of Leads in our database, which is currently empty. To wrap it up, let's add an item using the API provided from Django Rest Framework
+You will see a page with React's default "Welcome" page, and also a string `{ leads: []}` which is the list of Leads in our database, which is currently empty. To wrap it up, let's add an item using the API provided from Django Rest Framework
 
 ### 3. Adding an item using the API
 
