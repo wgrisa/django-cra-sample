@@ -1,6 +1,6 @@
 # Django and React Sample Application
 
-This is an example of an application that uses Django Admin and Django Rest Framework (DRF) as back-end, and React with Typescript as front-end.
+This is an example of an application that uses Django Admin and Django Rest Framework (DRF) for the back-end, and React with Typescript for the front-end.
 
 The React frontend simply displays a list of "Leads" that are retrieved from the back-end in Django.
 
@@ -8,8 +8,9 @@ The React frontend simply displays a list of "Leads" that are retrieved from the
 
 To run this sample application, you will need both Python 3, Node and npm installed in your local programming environment
 
-1. [Instructions on how to install and setup a local programming environment for Python 3](https://www.digitalocean.com/community/tutorial_series/how-to-install-and-set-up-a-local-programming-environment-for-python-3)
-2. [Instructions on how to install Node.js and create a local development environment](https://www.digitalocean.com/community/tutorial_series/how-to-install-node-js-and-create-a-local-development-environment)
+1. [Install and setup a local programming environment for Python 3](https://www.digitalocean.com/community/tutorial_series/how-to-install-and-set-up-a-local-programming-environment-for-python-3)
+2. [Install Node.js and create a local development environment](https://www.digitalocean.com/community/tutorial_series/how-to-install-node-js-and-create-a-local-development-environment)
+3. [Install Yarn](https://classic.yarnpkg.com/lang/en/docs/install)
 
 ## Installation
 
